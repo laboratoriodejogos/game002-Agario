@@ -1,2 +1,2 @@
 # game002-Agario
-Versão Agario - P5JS
+Versão Agario criado em P5js

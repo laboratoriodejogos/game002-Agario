@@ -15,4 +15,5 @@ Andre Oliveira RA: 3018102149<br>
 Victor de Paula RA: 3019114002<br>
 Renan Augusto RA: 3019109684<br>
 
-https://editor.p5js.org/AnubRekan/sketches/8SX3R5gur
+Projeto em:
+https://laboratoriodejogos.github.io/game002-Agario/
